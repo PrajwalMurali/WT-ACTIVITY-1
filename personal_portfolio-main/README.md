@@ -25,7 +25,7 @@ GitHub Pages for hosting
 📂 How to Use
 
 Clone the repository:
-git clone https://github.com/PrajwalMurali/personal_portfolio.git
+git clone 
 Navigate to the project directory:
 cd personal_portfolio
 Open index.html in your browser to view the website.

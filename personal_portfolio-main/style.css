@@ -196,6 +196,17 @@ nav{
     margin-bottom: 30px;
     color: var(--text-color-second);
 }
+
+/* Highlighted smaller h1 inside featured section */
+.featured-text h1 {
+    font-size: 18px; /* smaller than default */
+    font-weight: 600;
+    color: var(--text-color-third);
+    background: yellow;
+    display: inline-block;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
 .featured-text-btn{
     display: flex;
     gap: 20px;
